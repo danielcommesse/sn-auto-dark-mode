@@ -1,0 +1,10 @@
+{
+  "identifier": "io.github.danielcommesse.sn-auto-dark-mode",
+  "name": "Auto Dark Mode",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "version": "1.0.1",
+  "description": "Auto dark mode theme for Standard Notes.",
+  "url": "https://raw.githubusercontent.com/danielcommesse/sn-auto-dark-mode/1.0.1/ext.json",
+  "download_url": "https://github.com/danielcommesse/sn-auto-dark-mode/archive/refs/tags/1.0.1.zip"
+}
