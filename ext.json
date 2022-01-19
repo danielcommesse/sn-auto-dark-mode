@@ -3,7 +3,7 @@
   "name": "Auto Dark Mode",
   "content_type": "SN|Theme",
   "area": "themes",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Auto dark mode theme for Standard Notes.",
   "url": "https://raw.githubusercontent.com/danielcommesse/sn-auto-dark-mode/main/dist/dist.css",
   "latest_url": "https://raw.githubusercontent.com/danielcommesse/sn-auto-dark-mode/main/ext.json",
