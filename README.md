@@ -4,7 +4,7 @@
 
 ## Installation
 
-1. Open the Standard Notes [Web](https://app.standardnotes.org/) or Desktop App
+1. Open the Standard Notes Desktop App
 
 2. In the Extensions menu, click 'Import Extension' and paste:
 `https://raw.githubusercontent.com/danielcommesse/sn-auto-dark-mode/main/ext.json`
